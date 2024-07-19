@@ -7,3 +7,9 @@ Das Design basiert auf der Idee des Scrollens. Jedes Mal, wenn du auf der Y-Achs
 - CSS
 - JavaScript
 - Git
+
+## Meta Description Implementierung
+
+Um die Sichtbarkeit unserer Website in Suchmaschinen zu verbessern und prägnante Zusammenfassungen unserer Inhalte bereitzustellen, haben wir Meta-Beschreibungen zu allen Seiten hinzugefügt. Dies stellt sicher, dass unsere Seiten korrekt indexiert und in den Suchergebnissen angezeigt werden.
+
+![](./img/Bildschirmfoto.png)
