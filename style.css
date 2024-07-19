@@ -44,7 +44,7 @@ a{
 }
 .nav li a:hover, .active{
     background-color: #fff;
-    color: rgb(255, 6, 6);
+    color: rgb(20, 133, 0);
 }
 
 .main{
